@@ -1,9 +1,9 @@
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
-from . import utils
+from . import page_components
 
-nbar = utils.navigationBar()
+nbar = page_components.navigationBar()
 
 body = dbc.Container([
     dbc.Row([
