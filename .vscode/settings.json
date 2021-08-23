@@ -5,6 +5,7 @@
     "python.analysis.extraPaths": [
         "./fontEnd",
         "./frontEnd/utils",
-        "./backEnd"
+        "./backEnd",
+        "./backEnd/plots"
     ]
 }
